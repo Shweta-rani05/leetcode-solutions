@@ -7,6 +7,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0136-single-number) |
+| [0238-product-of-array-except-self](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -31,4 +32,8 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0009-palindrome-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
