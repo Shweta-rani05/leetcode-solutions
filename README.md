@@ -27,6 +27,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0169-majority-element) |
 ## Math
@@ -34,6 +35,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0013-roman-to-integer) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -50,4 +52,8 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
