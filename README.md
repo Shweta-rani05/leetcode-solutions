@@ -24,6 +24,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0002-add-two-numbers](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0050-powx-n) |
 ## Prefix Sum
 |  |
 | ------- |
