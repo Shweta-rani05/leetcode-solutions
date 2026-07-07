@@ -6,6 +6,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -47,6 +48,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -56,4 +58,8 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
