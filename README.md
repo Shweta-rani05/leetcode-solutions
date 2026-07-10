@@ -7,6 +7,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0169-majority-element) |
@@ -32,6 +33,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0169-majority-element) |
 ## Math
@@ -52,6 +54,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0169-majority-element) |
 ## Counting
@@ -63,6 +66,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0049-group-anagrams) |
 ## Two Pointers
 |  |
 | ------- |
