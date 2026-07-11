@@ -23,6 +23,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0002-add-two-numbers](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -91,8 +92,13 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Binary Tree
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
