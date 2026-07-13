@@ -13,32 +13,36 @@ public:
     }
 };
 */
-
-
-class Solution {
+class Solution{
 public:
-    Node* copyRandomList(Node* head) {
-        if (!head) return nullptr;
-
-        unordered_map<Node*, Node*> mapping; // Stores original-to-clone node mapping
-
-        Node* current = head;
-        // First pass: Create new nodes without linking them
-        while (current) {
-            mapping[current] = new Node(current->val);
-            current = current->next;
+     Node* copyRandomList(Node*  head){
+        if(head == NULL){
+            return NULL;
         }
+        unordered_map<Node*,Node*> m;
 
-        // Second pass: Establish next and random pointers
-        current = head;
-        while (current) {
-            mapping[current]->next = mapping[current->next];
-            mapping[current]->random = mapping[current->random];
-            current = current->next;
+        Node* newHead = new Node(head->val);
+        Node* oldTemp = head->next;
+        Node* newTemp = newHead;
+        m[head] = newHead;
+
+        while(oldTemp != NULL){
+            Node* copyNode = new Node(oldTemp->val);
+            m[oldTemp] = copyNode;
+            newTemp->next = copyNode;
+
+            oldTemp = oldTemp->next;
+            newTemp = newTemp->next;
         }
-
-        return mapping[head]; // Return deep copy head
-    }
+        oldTemp = head;
+        newTemp = newHead;
+        while(oldTemp != NULL){
+           newTemp->random = m[oldTemp->random];
+            oldTemp = oldTemp->next;
+            newTemp = newTemp->next;
+        }
+        return newHead;
+     }
 };
 
 
