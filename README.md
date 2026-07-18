@@ -73,6 +73,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0049-group-anagrams) |
 ## Two Pointers
 |  |
@@ -91,6 +92,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
