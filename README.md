@@ -13,6 +13,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0169-majority-element](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
@@ -106,6 +107,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0232-implement-queue-using-stacks](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 ## Tree
 |  |
 | ------- |
@@ -141,4 +143,5 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
