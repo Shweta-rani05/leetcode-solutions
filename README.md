@@ -9,6 +9,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0014-longest-common-prefix](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0134-gas-station](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -166,4 +167,8 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0901-online-stock-span) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
