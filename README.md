@@ -119,6 +119,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -131,6 +132,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Doubly-Linked List
@@ -164,6 +166,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0994-rotting-oranges](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
