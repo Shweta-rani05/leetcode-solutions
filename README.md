@@ -7,6 +7,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -71,6 +72,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0169-majority-element) |
@@ -90,6 +92,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
