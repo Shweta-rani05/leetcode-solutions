@@ -23,19 +23,20 @@
 class Solution {
 public:
     vector<int> inorderTraversal(TreeNode* root) {
-        vector<int> res;
-        stack<TreeNode*> stack;
-        TreeNode* curr = root;
-        while (curr != NULL || !stack.empty()) {
-            while (curr != NULL) {
-                stack.push(curr);
-                curr = curr->left;
+        vector<int> result;
+        stack<TreeNode* > s;
+        TreeNode* curr = root ;
+        while(curr != NULL || !s.empty()){
+            while(curr != NULL){
+                 s.push(curr);//stack m curr ki value push ki 
+                 curr = curr->left; // curr m left ki value push ki 
+
             }
-            curr = stack.top();
-            stack.pop();
-            res.push_back(curr->val);
-            curr = curr->right;
+            curr = s.top(); // curr m stack ka top store kraya 
+            s.pop(); // top element pop kr liya 
+            result.push_back(curr->val); // result m push_back kr diya curr ki value ko 
+            curr = curr ->right ;//curr ko right m increment kr diya 
         }
-        return res;
+        return result ;
     }
 };
