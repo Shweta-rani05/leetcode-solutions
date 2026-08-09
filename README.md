@@ -70,6 +70,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0009-palindrome-number](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0070-climbing-stairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -291,4 +292,12 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0079-word-search) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
