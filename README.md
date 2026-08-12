@@ -38,6 +38,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0061-rotate-list](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0206-reverse-linked-list) |
@@ -151,6 +152,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -174,6 +176,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -202,6 +205,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -249,6 +253,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0102-binary-tree-level-order-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0994-rotting-oranges) |
