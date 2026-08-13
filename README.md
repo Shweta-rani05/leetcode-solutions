@@ -25,6 +25,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0503-next-greater-element-ii](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Bit Manipulation
 |  |
@@ -136,6 +137,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0496-next-greater-element-i](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -162,6 +164,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0572-subtree-of-another-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
@@ -215,6 +218,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0572-subtree-of-another-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Doubly-Linked List
@@ -245,6 +249,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0496-next-greater-element-i](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0901-online-stock-span) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -285,6 +290,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## String Matching
 |  |
