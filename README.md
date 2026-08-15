@@ -26,6 +26,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Bit Manipulation
 |  |
@@ -66,6 +67,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0169-majority-element](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Math
 |  |
 | ------- |
@@ -169,6 +171,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -194,6 +197,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -224,6 +228,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -297,6 +302,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## String Matching
 |  |
 | ------- |
