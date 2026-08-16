@@ -348,6 +348,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 ## Iterator
 |  |
