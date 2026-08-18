@@ -22,6 +22,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0169-majority-element](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -66,6 +67,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0138-copy-list-with-random-pointer](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
@@ -88,6 +90,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -95,10 +98,12 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0049-group-anagrams](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
@@ -320,6 +325,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -356,4 +362,12 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
