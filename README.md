@@ -98,6 +98,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0049-group-anagrams](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0169-majority-element) |
+| [0295-find-median-from-data-stream](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
@@ -121,6 +122,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0061-rotate-list](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 ## Trie
 |  |
 | ------- |
@@ -248,6 +250,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0173-binary-search-tree-iterator](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -291,6 +294,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Greedy
 |  |
@@ -325,6 +329,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Queue
 |  |
