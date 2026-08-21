@@ -22,6 +22,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0169-majority-element](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -93,6 +94,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -135,6 +137,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Stack
@@ -292,6 +295,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0079-word-search) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0994-rotting-oranges](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Simulation
