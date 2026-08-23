@@ -19,6 +19,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
@@ -69,6 +70,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -124,6 +126,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0020-valid-parentheses](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0079-word-search) |
+| [0139-word-break](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0139-word-break) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
@@ -137,6 +140,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0139-word-break) |
 ## Binary Search
 |  |
 | ------- |
@@ -373,10 +377,12 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0139-word-break) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0139-word-break) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -407,4 +413,8 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
