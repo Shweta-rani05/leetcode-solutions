@@ -9,6 +9,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0014-longest-common-prefix](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -300,6 +301,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -308,6 +310,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
 |  |
