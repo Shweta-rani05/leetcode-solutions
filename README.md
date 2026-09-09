@@ -6,6 +6,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0049-group-anagrams) |
@@ -68,6 +69,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
