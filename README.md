@@ -230,6 +230,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0572-subtree-of-another-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
@@ -308,6 +309,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0207-course-schedule](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Matrix
@@ -369,6 +371,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0347-top-k-frequent-elements](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
 |  |
@@ -394,6 +397,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0070-climbing-stairs](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0139-word-break) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Memoization
 |  |
 | ------- |
@@ -437,6 +441,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
 | ------- |
@@ -445,4 +450,8 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
