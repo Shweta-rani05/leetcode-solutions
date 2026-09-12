@@ -24,6 +24,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0136-single-number](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -222,6 +223,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -309,6 +311,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -322,6 +325,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0073-set-matrix-zeroes](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0994-rotting-oranges](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -457,4 +461,8 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
