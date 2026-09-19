@@ -10,6 +10,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0014-longest-common-prefix](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
@@ -398,6 +399,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
@@ -466,4 +468,8 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0200-number-of-islands) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
