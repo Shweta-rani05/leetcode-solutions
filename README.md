@@ -137,6 +137,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0049-group-anagrams](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
@@ -145,6 +146,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0018-4sum](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 ## Trie
