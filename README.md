@@ -229,6 +229,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0145-binary-tree-postorder-traversal](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -317,6 +318,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -453,11 +455,13 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
