@@ -86,6 +86,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0387-first-unique-character-in-a-string](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Math
 |  |
@@ -241,6 +242,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0684-redundant-connection](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
@@ -463,6 +465,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0547-number-of-provinces](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Topological Sort
 |  |
 | ------- |
@@ -482,8 +485,13 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0200-number-of-islands](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0684-redundant-connection) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Algorithm X
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0051-n-queens) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
