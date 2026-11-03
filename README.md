@@ -245,6 +245,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1192-critical-connections-in-a-network](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -466,6 +467,7 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 | [0684-redundant-connection](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1192-critical-connections-in-a-network](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
 ## Topological Sort
 |  |
 | ------- |
@@ -494,4 +496,12 @@ Consistent LeetCode practice repository containing well-structured C++ solutions
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Shweta-rani05/leetcode-solutions/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
